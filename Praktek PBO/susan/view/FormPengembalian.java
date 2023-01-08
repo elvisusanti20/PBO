@@ -10,7 +10,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 /**
  *
- * @author Lenovo
+ * @author susan
  */
 public class FormPengembalian extends javax.swing.JFrame {
 
