@@ -7,7 +7,7 @@ package susan.model;
 
 /**
  *
- * @author Lenovo
+ * @author susan
  */
 public class Pengembalian {
     private String nobp;
