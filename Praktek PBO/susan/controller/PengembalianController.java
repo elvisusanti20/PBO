@@ -7,7 +7,7 @@ package susan.controller;
 import susan.model.PengembalianDaoImpl;
 import susan.model.PengembalianDao;
 import susan.model.Pengembalian;
-import Chantika1.model.*;
+import susan.model.*;
 import susan.view.FormPengembalian;
 import java.util.*;
 import javax.swing.JOptionPane;
