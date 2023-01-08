@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Lenovo
+ * @author susan
  */
 public class PengembalianDaoImpl implements PengembalianDao{
     List<Pengembalian> data= new ArrayList<>();
